@@ -1,0 +1,16 @@
+{
+  "name": "reusable-code",
+  "version": "1.0.0",
+  "description": "some resuable code",
+  "main": "reusable-code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "package",
+    "reusable"
+  ],
+  "author": "Nick Chan#0001",
+  "license": "ISC"
+}
