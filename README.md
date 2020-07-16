@@ -9,6 +9,9 @@ Make it so that the `reusable-code` package in https://www.youtube.com/watch?v=x
 ```bash
 npm install reusable-code@latest
 ```
+## Changelogs
+Added typescript definitions
+## Examples
 ### JavaScript
 ```js
 const reusable = require('reusable-code')
