@@ -1,4 +1,3 @@
-declare module 'reusable-code' {
-  var video:string
-  var add2numbers: (a:number,b:number) => number
-}
+/// <reference types="node"/>
+  export var video:string
+  export var add2numbers: (a:number,b:number) => number

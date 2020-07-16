@@ -1,11 +1,11 @@
 {
   "name": "reusable-code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "some resuable code",
   "main": "reusable-code.js",
-  "types":"index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": "github:Assfugil/reusable-code",
   "keywords": [
@@ -13,6 +13,10 @@
     "package",
     "reusable"
   ],
-  "author": "Nick Chan#0001",
-  "license": "ISC"
+  "author": "asdfugil",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "typescript": "^3.9.6"
+  }
 }
