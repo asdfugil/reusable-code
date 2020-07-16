@@ -1,8 +1,9 @@
 {
   "name": "reusable-code",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "some resuable code",
   "main": "reusable-code.js",
+  "types":"index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
